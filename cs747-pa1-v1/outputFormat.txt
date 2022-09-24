@@ -1,0 +1,12 @@
+../instances/instances-task1/i-2.txt, epsilon-greedy-t1, 0, 0.61, 2, 0, 82, 54.881, 0
+../instances/instances-task1/i-2.txt, ucb-t1, 499, 0.02, 2, 0, 27, 95.381, 0
+../instances/instances-task1/i-1.txt, kl-ucb-t1, 16, 0.02, 2, 0, 39, 22.329, 0
+../instances/instances-task1/i-2.txt, thompson-sampling-t1, 0, 0.02, 2, 0, 200, 54.881, 0
+../instances/instances-task2/i-3.txt, ucb-t2, 451, 0.02, 0.9, 0, 77, 77.299, 0
+../instances/instances-task1/i-1.txt, epsilon-greedy-t1, 5982, 0.037, 2, 0, 20000, 93.799, 0
+../instances/instances-task3/i-2.txt, alg-t3, 33, 0.02, 2, 0, 241, 24.851, 0
+../instances/instances-task4/i-1.txt, alg-t4, 33, 0.02, 2, 0.16, 95, 68.968, 20
+../instances/instances-task3/i-1.txt, alg-t3, 10, 0.02, 2, 0, 53, 77.132, 0
+../instances/instances-task2/i-5.txt, ucb-t2, 49, 0.02, 18, 0, 96395, 30.096, 0
+../instances/instances-task1/i-1.txt, kl-ucb-t1, 2, 0.02, 2, 0, 201, 43.599, 0
+../instances/instances-task4/i-2.txt, alg-t4, 100, 0.02, 2, 0.75, 201, 67.116, 8
